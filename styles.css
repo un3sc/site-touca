@@ -80,6 +80,17 @@ body {
     display: block;
 }
 
+.dropdown-content.dropright {
+    left: 100%;
+    top: 0;
+    right: auto;
+}
+
+.dropright {
+    display: block;
+}
+
+
 /*Lado direito do cabeçalho*/
 .header-right {
     display: flex;
