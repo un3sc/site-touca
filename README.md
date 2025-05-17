@@ -33,7 +33,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## Licença
 
-Este projeto está licenciado sob a [escolha da licença].
+Este projeto está licenciado sob a [LICENCE].
 
 ---
 Feito com 💙 por [NESC]
