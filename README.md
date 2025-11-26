@@ -12,8 +12,6 @@ Este projeto é um site desenvolvido para a Turma da Touca, com o objetivo de ap
 
 - HTML5
 - CSS3
-- JavaScript
-- [Adicione outras tecnologias/frameworks utilizados]
 
 ## Como executar o projeto
 
@@ -30,10 +28,6 @@ Este projeto é um site desenvolvido para a Turma da Touca, com o objetivo de ap
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a [LICENCE].
 
 ---
 Feito com 💙 por [NESC]
